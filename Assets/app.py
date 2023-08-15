@@ -99,4 +99,4 @@ gr.Interface(inputs=[SeniorCitizen, Tenure, MonthlyCharges, TotalCharges,
              title=" Teleco Services Customer Churn Prediction",
              description="This model predicts whether a customer will churn or stay with the telecom service based on various input features",
              ).launch(inbrowser=True, show_error=True,share = True)
- 
+  
