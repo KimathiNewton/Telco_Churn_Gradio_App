@@ -97,6 +97,6 @@ gr.Interface(inputs=[SeniorCitizen, Tenure, MonthlyCharges, TotalCharges,
              outputs=gr.Label("Awaiting Submission...."),
              fn=predict_churn,
              title=" Teleco Services Customer Churn Prediction",
-             description="This model predicts whether a customer will churn or stay with the telecom service based on various input features",
+             description="This Teleco Services Customer Churn Prediction app utilizes advanced machine learning to foresee whether a customer will churn or stay, based on diverse input features. Simply enter customer details, and obtain actionable insights instantly. Your feedback is invaluable to us for continuous enhancement",
              ).launch(inbrowser=True, show_error=True,share = True)
   
