@@ -34,26 +34,36 @@ The application offers an intuitive and user-friendly interface for predicting c
 
 
 
-## Usage
+# Usage
 
-1. Clone this repository to your local machine.
+### 1. Clone this repository to your local machine.
+Start by cloning the GitHub repository containing the Telco Churn Analysis project and the predictive app. You can do this by running the following command in your terminal:
+```
+https://github.com/Newton23-nk/Telco_Churn_Gradio_App.git
+```
+
 2. Navigate to the project directory.
 
- # Setup
+ ### 2. Setup Virtual Environment
 You need Python3 on your system to setup this app. Then you can clone this repo and being at the repo's root :: streamlit sales prediction app> ... follow the steps below:
 * Windows
 ```python
     python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt 
-`````` 
+``` 
 * Linux & MacOs
 ```python
     python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
 
-``````
- 
+```
+### 3. Install Dependencies:
+Install the required Python packages within your virtual environment:
+```
+pip install -r requirements.txt
+```
 
  # To run the Application Script
+ ``````
  python Assets/app.py
-
+``````
 # Author 
 Newton Kimathi
