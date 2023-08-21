@@ -32,6 +32,8 @@ The application offers an intuitive and user-friendly interface for predicting c
 * Senior Citizen: Whether the customer is a senior citizen (Yes/No).
 * Streaming Movies: Whether the customer uses streaming movies service (Yes/No).
 
+# Article 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/2" alt="Recent Article 2"> 
 
 
 # Usage
