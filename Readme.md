@@ -1,6 +1,6 @@
 ## Telco Churn Prediction Gradio App
 
-![App Screenshot](Images\Screenshot 2023-08-19 114612.png)
+[App Screenshot](Images\Screenshot 2023-08-19114612.png)
 
 ## Description
 
