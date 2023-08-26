@@ -1,6 +1,8 @@
 ## Telco Churn Prediction Gradio App
 
 ![App Screenshot](Images/Interface.png)
+![App Screenshot](Images/Interface2.png)
+![App Screenshot](Images/Interface3.png)
 
 ## Description
 
@@ -67,5 +69,15 @@ pip install -r requirements.txt
  ``````
  python Assets/app.py
 ``````
-# Author 
+# Pretrained Model and Analysis
+To better understand the modeling and analysis behind the app, you can explore the Analysis and Modeling directory [here](https://github.com/Newton23-nk/Telco-Customer-Churn). It contains detailed information about the data preprocessing, feature engineering, model training, and evaluation that contributed to the creation of the app's predictive capabilities.
+
+# Feedback and Support
+
+Email: newtonkimathi20@gmail.com
+
+GitHub Issues: Feel free to create an issue in the GitHub repository.
+
+
+# Author
 Newton Kimathi
