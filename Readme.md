@@ -35,7 +35,15 @@ The application offers an intuitive and user-friendly interface for predicting c
 * Streaming Movies: Whether the customer uses streaming movies service (Yes/No).
 
 # Article 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@newtonkimathi20/2" alt="Recent Article 2"> 
+Here is the [Article Link](https://medium.com/@NewtonKimathi/imagine-youve-developed-a-sophisticated-machine-learning-model-in-this-case-one-that-predicts-ba6c0286b2c7)
+
+Also check out my latest articles here:
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/1" alt="Recent Article 1">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@@NewtonKimathi/2" alt="Recent Article 2">
 
 
 # Usage
@@ -75,6 +83,8 @@ To better understand the modeling and analysis behind the app, you can explore t
 # Feedback and Support
 
 Email: newtonkimathi20@gmail.com
+
+Hugging Face : https://huggingface.co/NewtonKimathi
 
 GitHub Issues: Feel free to create an issue in the GitHub repository.
 
